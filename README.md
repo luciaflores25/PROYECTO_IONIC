@@ -10,5 +10,5 @@ _A continuación voy a explicar las distintas funcionalidades y las pantallas qu
 ### Página principal
  _Al entrar aparece una pantalla de bienvenida con una imagen y un botón que te redirige a una lista de categorías para ver recetas._
 
-<img src="img/home.png" width="303"/> <img src="img/categorias.png" width="303"/>
+<img src="img/home.png" width="303"/> <img src="img/categorias.png" width="330"/>
 
