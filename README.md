@@ -7,8 +7,15 @@ _Aplicación de recetas para la asignatura de Acceso a Datos del grado superior 
  
 _A continuación voy a explicar las distintas funcionalidades y las pantallas que tiene la aplicación:_
 
-### Página principal
+### Página principal y menú de categorías
  _Al entrar aparece una pantalla de bienvenida con una imagen y un botón que te redirige a una lista de categorías para ver recetas._
 
 <img src="img/home.png" width="303"/> <img src="img/categorias.png" width="330"/>
+
+### Lista de recetas
+
+_Al pulsar en una categoría aparece una lista de recetas._
+
+<img src="img/aperitivos.png" width="303"/> <img src="img/primeros_platos.png" width="303"/>
+<img src="img/segundos_platos.png" width="303"/> <img src="img/postres.png" width="303"/>
 
