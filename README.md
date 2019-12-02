@@ -16,6 +16,13 @@ _A continuación voy a explicar las distintas funcionalidades y las pantallas qu
 
 _Al pulsar en una categoría aparece una lista de recetas._
 
+Aperitivos y primeros platos
 <img src="img/aperitivos.png" width="303"/> <img src="img/primeros_platos.png" width="303"/>
+Segundos platos y postres
 <img src="img/segundos_platos.png" width="303"/> <img src="img/postres.png" width="303"/>
+
+### Recetas
+_Al pulsar en cualquier receta aparece una descripción de la receta, por ejemplo vamos a pulsar en un segundo plato:_
+
+<img src="img/hamburguesa1.png" width="303"/> <img src="img/hamburguesa2.png" width="303"/>
 
