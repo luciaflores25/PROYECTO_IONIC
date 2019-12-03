@@ -12,6 +12,10 @@ _A continuación voy a explicar las distintas funcionalidades y las pantallas qu
 
 <img src="img/home.png" width="303"/> <img src="img/categorias.png" width="330"/>
 
+### Insertar recetas
+
+<img src="img/insertar.png" width="303"/> <img src="img/modalInsertar.png" width="330"/>
+
 ### Lista de recetas
 
 _Al pulsar en una categoría aparece una lista de recetas._
@@ -26,4 +30,11 @@ Segundos platos y postres </br>
 _Al pulsar en cualquier receta aparece una descripción de la receta, por ejemplo vamos a pulsar en un segundo plato:_
 
 <img src="img/hamburguesa1.png" width="303"/> <img src="img/hamburguesa2.png" width="303"/>
+
+### Eliminar recetas
+
+_Al pulsar el botón de eliminar recetas aparece el siguiente modal:_
+
+<img src="img/modalEliminar.png" width="303"/>
+
 
