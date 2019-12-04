@@ -35,10 +35,11 @@ export class InsertarRecetaPage implements OnInit {
         this.receta = this.servicesRecipe.getRecetaById(+idReceta);
       }
     }
-    saveReceta(t: Receta) {
+    saveReceta(t: Receta) { 
       if (this.edit) {
         this.servicesRecipe.saveReceta(this.receta).then(() => this.navController.navigateBack,
         (error) => console.error('Ha ocurrido un error al guardar la receta:' + error));
+        this.navController.navigateForward('/mostrarReceta/' + this.receta.idReceta);
       } else {
         this.servicesRecipe.newReceta(this.receta).then(() => this.navController.navigateBack,
         (error) => console.error('Ha ocurrido un error al guardar la receta:' + error));
